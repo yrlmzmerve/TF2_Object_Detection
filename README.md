@@ -1,15 +1,12 @@
 # TF2_Object_Detection
 
 ```Custom file ```
-* data
+- data
 
-** text.record
-
-** train.record
-
-** test_label.csv
-
-** train_label.csv
+' text.record
+' train.record
+' test_label.csv
+' train_label.csv
 
 
 *images 
