@@ -3,14 +3,14 @@
 ```Custom file ```
 - data
   - text.record
-' train.record
-' test_label.csv
-' train_label.csv
+  - train.record
+  - test_label.csv
+  - train_label.csv
 
 
-*images 
-** test -- jpg & xml
-** train -- jpg & xml
+- images 
+  - test --> jpg & xml
+  - train --> jpg & xml
 
 
 
