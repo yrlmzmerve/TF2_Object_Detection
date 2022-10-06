@@ -11,6 +11,10 @@
 - images 
   - test --> jpg & xml
   - train --> jpg & xml
+  
+- training 
+  - SSD MobileNet V2 FPNLite 320x320 (TF model)
+  - ssdconfig.config
 
 
 
