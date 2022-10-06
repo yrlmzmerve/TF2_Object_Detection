@@ -3,7 +3,7 @@
 ```Custom file ```
 - data
 
-- -  text.record
+--  text.record
 ' train.record
 ' test_label.csv
 ' train_label.csv
