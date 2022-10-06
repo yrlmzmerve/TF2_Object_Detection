@@ -1,0 +1,24 @@
+item {
+  name: "company_detail"
+  id: 1
+}
+item {
+  name: "customer_detail"
+  id: 2
+}
+item {
+  name: "product_table"
+  id: 3
+}
+item {
+  name: "invoice_detail"
+  id: 4
+}
+item {
+  name: "cargo_detail"
+  id: 5
+}
+item {
+  name: "product_table_total"
+  id: 6
+}
